@@ -1,5 +1,4 @@
-# TypeScript Coding Conventions Guide for Interns
-
+# TypeScript Coding Conventions Guide 
 Welcome to our TypeScript coding conventions! This guide will help you write clean, maintainable, and type-safe code that follows our team's standards.
 
 ## 1. Naming Conventions
